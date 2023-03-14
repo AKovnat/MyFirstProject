@@ -1,4 +1,4 @@
-public class AddExr10 {
+public class AddTask10 {
     public static void main(String[] args) {
 
 

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AddExr6 {
+public class AddTask6 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter number: ");

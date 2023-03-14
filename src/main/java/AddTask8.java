@@ -1,4 +1,4 @@
-public class AddExr8 {
+public class AddTask8 {
     public static void main(String[] args) {
         System.out.println("Ïðèâåò!");
         int z = 2147483647 + 1;
